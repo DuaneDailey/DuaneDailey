@@ -2,14 +2,14 @@
 
 AI Governance & Automation Systems
 
-I build practical AI systems focused on governance, defensibility, and measurable ROI.
+I design practical AI systems focused on governance, defensibility, and measurable business impact.
 
 ---
 
 ### Background
 Audit & Compliance • Data Analytics • Cost Optimization
 
-### Currently Building
+### What I'm Building
 - AI governance frameworks
 - Automation pipelines with ROI tracking
 - Retrieval-Augmented Generation (RAG) systems
