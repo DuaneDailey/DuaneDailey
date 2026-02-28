@@ -1,16 +1,20 @@
-## Hi there 👋
+# Duane Dailey
 
-<!--
-**DuaneDailey/DuaneDailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Governance & Automation Systems
 
-Here are some ideas to get you started:
+I build practical AI systems focused on governance, defensibility, and measurable ROI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Background
+Audit & Compliance • Data Analytics • Cost Optimization
+
+### Currently Building
+- AI governance frameworks
+- Automation pipelines with ROI tracking
+- Retrieval-Augmented Generation (RAG) systems
+- LLM cost monitoring dashboards
+
+---
+
+🔗 Portfolio: https://github.com/DuaneDailey/ai-governance-portfolio
