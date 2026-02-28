@@ -2,8 +2,7 @@
 
 AI Governance & Automation Systems
 
-I design practical AI systems focused on governance, defensibility, and measurable business impact.
-
+I build practical AI systems with a focus on governance, cost control, and measurable business impact.
 ---
 
 ### Background
