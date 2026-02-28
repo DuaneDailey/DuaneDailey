@@ -12,7 +12,7 @@ Audit & Compliance • Data Analytics • Cost Optimization
 - AI governance and control frameworks  
 - Automation pipelines with measurable ROI tracking  
 - Retrieval-Augmented Generation (RAG) knowledge systems  
-- LLM cost monitoring and usage dashboards
+- LLM usage and cost monitoring dashboards
 
 ---
 
