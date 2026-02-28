@@ -8,11 +8,11 @@ I build practical AI systems with a focus on governance, cost control, and measu
 ### Background
 Audit & Compliance • Data Analytics • Cost Optimization
 
-### What I'm Building
-- AI governance frameworks
-- Automation pipelines with ROI tracking
-- Retrieval-Augmented Generation (RAG) systems
-- LLM cost monitoring dashboards
+### Currently Building
+- AI governance and control frameworks  
+- Automation pipelines with measurable ROI tracking  
+- Retrieval-Augmented Generation (RAG) knowledge systems  
+- LLM cost monitoring and usage dashboards
 
 ---
 
